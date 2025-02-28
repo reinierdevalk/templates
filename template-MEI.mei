@@ -11,7 +11,8 @@
         <encodingDesc>
             <appInfo>
                 <application isodate='date_placeholder' version='version_placeholder'>
-                    <name>app_placeholder</name>
+                    <name>tool_placeholder</name>
+                    <p>input_file_placeholder</p>
                 </application>
             </appInfo>
         </encodingDesc>
