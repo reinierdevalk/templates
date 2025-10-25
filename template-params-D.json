@@ -1,0 +1,24 @@
+{
+	"dataset": {
+		"dataset_ID":					""
+	},
+	"model_parameters": {
+		// Model
+		"model":						"D",
+		"feature_vector":				"",
+		"hidden_layers":				0,
+		"hidden_layer_size":			0,
+		"activation_function":			"",
+		// Training
+		"learning_rate":				0.0,
+		"keep_probability":				0.0,
+		"epochs":						0,
+		"mini_batch_size":				0,
+		"validation_percentage":		0,
+		// Training, testing, inference
+		"processing_mode":				"",
+		"decision_context_size":		0,
+		"voice_entry_estimation":		false,
+		"seed":							0
+	}
+}
