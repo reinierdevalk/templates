@@ -1,0 +1,16 @@
+{
+	"dataset": {
+		"dataset_ID":					""
+	},
+	"model_parameters": {
+		// Model
+		"model":						"H",
+		// Training
+		"validation_percentage":		0,
+		// Testing, inference
+		"processing_mode":				"",
+		"decoding_algorithm":			"",
+		"configuration":				"",
+		"voice_entry_estimation":		false
+	}
+}

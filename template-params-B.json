@@ -1,0 +1,26 @@
+{
+	"dataset": {
+		"dataset_ID":					""
+	},
+	"model_parameters": {
+		// Model
+		"model":						"B",
+		"feature_vector":				"",
+		"hidden_layer_factor":			0.0,
+		"activation_function":			"",
+		// Training
+		"learning_rate":				0.0,
+		"regularisation_parameter":		0.0,
+		"metacycles":					0,
+		"cycles":						0,
+		"mini_batch_size":				0,
+		"validation_percentage":		0,
+		// Training, testing, inference
+		"processing_mode":				"",
+		"decision_context_size":		0,
+		"deviation_threshold":			0.0,
+		"voice_entry_estimation":		false,
+		"model_ID_first_pass":			"",
+		"dir_first_pass":				""
+	}
+}
