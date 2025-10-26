@@ -18,6 +18,7 @@
 		// Training, testing, inference
 		"processing_mode":				"",
 		"decision_context_size":		0,
+		"deviation_threshold":			0.0,
 		"voice_entry_estimation":		false,
 		"seed":							0
 	}
