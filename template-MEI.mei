@@ -13,6 +13,7 @@
                 <application isodate='date_placeholder' version='version_placeholder'>
                     <name>tool_placeholder</name>
                     <p>input_file_placeholder</p>
+                    <p>output_file_placeholder</p>
                 </application>
             </appInfo>
         </encodingDesc>
